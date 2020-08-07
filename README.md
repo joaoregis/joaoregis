@@ -11,7 +11,6 @@
 
 [<img align="left" alt="joaoregis.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="João Regis | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="João Regis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="João Regis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -45,7 +44,6 @@
 
 [website]: https://joaoregis.com.br
 [automwebsite]: https://automatos.com
-[twitter]: https://twitter.com/_joaoregis
 [youtube]: https://youtube.com/thep0laco
 [linkedin]: https://linkedin.com/in/joaoregis
 [webdevplaylist]: https://www.youtube.com/
