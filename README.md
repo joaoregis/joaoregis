@@ -68,7 +68,7 @@
 
 [website]: https://joaoregis.com.br
 [automwebsite]: https://automatos.com
-[twitter]: https://twitter.com/joaoregis
+[twitter]: https://twitter.com/_joaoregis
 [youtube]: https://youtube.com/thep0laco
 [linkedin]: https://linkedin.com/in/joaoregis
 [webdevplaylist]: https://www.youtube.com/
