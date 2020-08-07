@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer & Developer!
 
--   🔭 I’m currently working on Automatos - it's an IT Management software provider [Automatos][automwebsite]!
+-   🔭 I’m currently working on Automatos - it's an IT Management software provider - [Automatos][automwebsite].
 -   🌱 I’m currently learning everything 🤣
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2021 Goals: Contribute more to Open Source projects & expand my area of knowlegment
