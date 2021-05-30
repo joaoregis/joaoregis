@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer & Developer!
 
--   🔭 I’m currently working on Automatos - it's an IT Management software provider - [Automatos][automwebsite].
--   🌱 I’m currently learning everything 🤣
+-   🔭 I’m currently working on [Astrolink Team][astrolink] - Largest astrology website in Latin America.
+-   🌱 I’m currently learning GoLang, RabbitMQ and improving my skills with Redis and Docker based microservices. 
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2021 Goals: Contribute more to Open Source projects & expand my area of knowlegment
 
@@ -43,7 +43,7 @@
 <img align="left" alt="João Regis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoregis&show_icons=true&hide_border=true" />
 
 [website]: https://joaoregis.com.br
-[automwebsite]: https://automatos.com
+[astrolink]: https://www.astrolink.com.br/
 [youtube]: https://youtube.com/thep0laco
 [linkedin]: https://linkedin.com/in/joaoregis
 [webdevplaylist]: https://www.youtube.com/
