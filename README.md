@@ -5,7 +5,7 @@
 -   🔭 I’m currently working on [Dock.Tech][dock] - Largest BaaS (Banking as a Service) provider in LATAM and in currently expansion to NA.
 -   🌱 I’m currently improving my skills on GoLang, RabbitMQ, Kafka, Orchestrators, Message Brokers and microservices architeture. 
 -   👯 I’m looking to collaborate with other content creators
--   🥅 2021 Goals: Contribute more to Open Source projects & expand my area of knowlegment
+-   🥅 2022 Goals: Contribute more to Open Source projects & expand my area of knowlegment
 
 ### Connect with me:
 
