@@ -43,7 +43,7 @@
 <img align="left" alt="João Regis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaoregis&show_icons=true&hide_border=true" />
 
 [website]: https://joaoregis.com.br
-[astrolink]: https://www.dock.tech/
+[dock]: https://www.dock.tech/
 [youtube]: https://youtube.com/thep0laco
 [linkedin]: https://linkedin.com/in/joaoregis
 [webdevplaylist]: https://www.youtube.com/
