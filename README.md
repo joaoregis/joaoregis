@@ -3,7 +3,8 @@
 ## I'm a Software Engineer & Developer!
 
 -   🔭 I’m currently working on [Dock.Tech][dock] - Largest BaaS (Banking as a Service) provider in LATAM and in currently expansion to NA.
--   🌱 I’m currently improving my skills on GoLang, RabbitMQ, Kafka, Orchestrators, Message Brokers and microservices architeture. 
+-   🌱 I’m currently improving my skills on GoLang, RabbitMQ, Kafka and Elastic-Search.
+-   🌱 I’m also studying new technologies like Rust-Lang and Search Engines like Sonic-Search.
 -   👯 I’m looking to collaborate with other content creators
 -   🥅 2022 Goals: Contribute more to Open Source projects & expand my area of knowlegment
 
